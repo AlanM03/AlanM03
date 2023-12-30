@@ -3,11 +3,11 @@
 
 - :thought_balloon: I'm currently thinking about the transformative power of ML and AI
 
-- 👨‍💻 [Portfolio](https://alan-mackiewicz-portfolio.vercel.app/)
+- 👨‍💻 This is my [portfolio](https://alan-mackiewicz-portfolio.vercel.app/) built in Three.js
 
 - 📫 How to reach me **alanmackiewicz03@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1o4IF-19ELwZT0NGBHRuzhI4HS64M-r9L/edit)
+- 📄 See my experiences [here](https://docs.google.com/document/d/1o4IF-19ELwZT0NGBHRuzhI4HS64M-r9L/edit)
 
 - ⚡ Fun fact: **I'm musically talented**
 
