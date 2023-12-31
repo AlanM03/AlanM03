@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alan Mackiewicz</h1>
+<h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">Junior studying comp sci with a passion for SWE and DS, always eager to tackle new challenges and grow.</h3>
 
 - :thought_balloon: I'm currently thinking about the transformative power of ML and AI
