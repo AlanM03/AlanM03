@@ -11,10 +11,12 @@
   <li>Connect -> <a href="https://www.linkedin.com/in/alan-mackiewicz-39a715234/">there</a></li>
 </ul>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,react,vite,figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,postgresql,mongodb,git,docker,postman,vercel" />
-  </a>
-</p>
+<div>
+  <h3 align="center">Languages and Tools:</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,react,vite,figma" />
+      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,postgresql,mongodb,git,docker,postman,vercel" />
+    </a>
+  </p>
+</div>
