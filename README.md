@@ -2,7 +2,7 @@
 
 <p align="center">Senior studying comp sci with a passion for SWE and AI, always eager to tackle new challenges and grow.</p>
 
-<img align="right" alt="emoji_dude" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21uNXVxNXJqOXNlOGNsMmJ6ZHFxZXo4Nmh6bHBwdHlhM2hzeWgzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TYJGc5wB1ZlQDYbxhl/giphy.gif">
+<img align="right" alt="emoji_dude" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21uNXVxNXJqOXNlOGNsMmJ6ZHFxZXo4Nmh6bHBwdHlhM2hzeWgzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TYJGc5wB1ZlQDYbxhl/giphy.gif">
 <ul>
   <li>Currently working on solutions that leverage localLLMs</li>
   <li>My <a href="https://alan-mackiewicz-portfolio.vercel.app/">portfolio</a> built in Three.js</li>
