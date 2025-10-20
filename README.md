@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">Junior studying comp sci with a passion for SWE and DS, always eager to tackle new challenges and grow.</h3>
+<h3 align="center">Senior studying comp sci with a passion for SWE and DS, always eager to tackle new challenges and grow.</h3>
 
-- :thought_balloon: I'm currently thinking about the transformative power of ML and AI
+- :thought_balloon: Currently working on solutions that leverage localLLMs
 
-- 👨‍💻 This is my [portfolio](https://alan-mackiewicz-portfolio.vercel.app/) built in Three.js
+- My [portfolio](https://alan-mackiewicz-portfolio.vercel.app/) built in Three.js
 
-- 📫 How to reach me **alanmackiewicz03@gmail.com**
+- How to reach me **alanmackiewicz03@gmail.com**
 
-- 📄 See my experiences [here](https://docs.google.com/document/d/1o4IF-19ELwZT0NGBHRuzhI4HS64M-r9L/edit)
-
-- ⚡ Fun fact: **I'm musically talented**
+- Resume -> [here](https://drive.google.com/file/d/1skjC-fPzbttIDT6T2yjFX5nSdvGv5QTg/view)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
