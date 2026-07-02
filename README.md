@@ -26,4 +26,7 @@
       <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,postgresql,mongodb,git,docker,postman,vercel" />
     </a>
   </p>
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlanM03&theme=dark" alt="GitHub Streak" />
+</p>
 </div>
