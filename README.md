@@ -1,16 +1,16 @@
 <h1 align="center">Alan Mackiewicz</h1>
 
-<p align="center">Senior studying comp sci with a passion for SWE and AI, always eager to tackle new challenges and grow.</p>
+<p align="center">College grad with a passion for SWE and AI, always eager to tackle new challenges and grow.</p>
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <div>
     <ul>
-      <li>Currently working on solutions that leverage localLLMs</li>
-      <li>My <a href="https://alan-mackiewicz-portfolio.vercel.app/">portfolio</a> built in Three.js</li>
+      <li>Currently working on business CRM solutions that leverage AI</li>
+      <li>My <a href="https://alanmck.com/">portfolio</a></li>
       <li>How to reach me <strong>alanmackiewicz03@gmail.com</strong></li>
-      <li>Resume -> <a href="https://drive.google.com/file/d/1skjC-fPzbttIDT6T2yjFX5nSdvGv5QTg/view">here</a></li>
-      <li>Connect -> <a href="https://www.linkedin.com/in/alan-mackiewicz-39a715234/">there</a></li>
+      <li>Resume -> <a href="https://docs.google.com/document/d/10MdXNw6KqtyW-nwX6iURBA9Bmqaoaq5i/view">here</a></li>
+      <li>Connect -> <a href="https://www.linkedin.com/in/alanmackiewicz/">there</a></li>
     </ul>
   </div>
 
